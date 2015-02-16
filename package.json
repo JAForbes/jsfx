@@ -2,6 +2,6 @@
   "name": "jsfx",
   "version": "0.1",
   "author": "egonelbre",
-  "main": "jsfx.js",
+  "main": "lib/jsfx.js",
   "dependencies": {}
 }
